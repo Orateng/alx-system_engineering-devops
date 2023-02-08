@@ -1,3 +1,1 @@
-README.
-#!/bin/bash
-pwd
+
