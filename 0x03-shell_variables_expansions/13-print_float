@@ -1,2 +1,2 @@
 #!/bin/bash
-export NUM=%.2d
+echo $(( NUM=%.2d ))
