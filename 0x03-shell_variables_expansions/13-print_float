@@ -1,2 +1,2 @@
 #!/bin/bash
-NUM=%.2d
+export NUM=%.2d
