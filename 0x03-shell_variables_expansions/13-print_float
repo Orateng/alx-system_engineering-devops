@@ -1,2 +1,2 @@
 #!/bin/bash
-NUM=%.2d
+printf "%.2f" $NUM
